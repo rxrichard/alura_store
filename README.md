@@ -14,7 +14,7 @@ Barbearia Alura é um projecto desenvolvido no curso sobre HTML5 e CSS3 da [Alur
 
 ## 🌐 Para acessar: 
 
-[Barbearia Alura -  by Richard Bastos](rxrichard.github.io/alura_store)
+[Alura Store -  by Richard Bastos](rxrichard.github.io/alura_store)
 
 
 ## ⚙️ Ferramentas Utilizadas
