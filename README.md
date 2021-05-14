@@ -10,7 +10,7 @@
 
 ## ✂ Sobre
 
-Alura Store é um projeto desenvolvido no curso sobre HTML5 e CSS3 da [Alura](https://www.alura.com.br/), com a finalidade de praticar os conhecimentos adquiridos durante o curso de grid layout.
+Alura Store é um projeto desenvolvido no curso sobre grid layout da [Alura](https://www.alura.com.br/), com a finalidade de praticar os conhecimentos adquiridos durante o curso 
 
 ## 🌐 Para acessar: 
 
