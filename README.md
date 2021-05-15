@@ -20,11 +20,10 @@ Alura Store é um projeto desenvolvido no curso sobre grid layout da [Alura](htt
 ## ⚙️ Ferramentas Utilizadas
 
 Foram utilizadas as seguintes ferramentas:
-
+<p class="row">
 <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="34px"> 
-
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="34px" height="34px"> 
-
+</p>
 
 ## 📂Como baixar o projecto
 
@@ -37,7 +36,7 @@ $ https://github.com/rxrichard/alura_store
 ## 🏷Autor
  
 <h2>Meus contatos: </h2>
-
+    
 [![Linkedin Badge ](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rxrichard/) ](https://www.linkedin.com/in/rxrichard/)
 
 <a href="https://api.whatsapp.com/send?phone=5511974490549" alt="WhatsApp">
