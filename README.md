@@ -14,7 +14,7 @@ Alura Store é um projeto desenvolvido no curso sobre grid layout da [Alura](htt
 
 ## 🌐 Para acessar: 
 
-[Alura Store -  by Richard Bastos](rxrichard.github.io/alura_store)
+[Alura Store -  by Richard Bastos](https://rxrichard.github.io/alura_store/)
 
 
 ## ⚙️ Ferramentas Utilizadas
